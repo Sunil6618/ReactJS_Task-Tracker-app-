@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Take BreakFast",
+      "day": "EveryDay After BreakFast",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Take medicine",
+      "day": "EveryDay After BreakFast",
+      "reminder": true
+    },
+    {
+      "text": "Take test",
+      "day": "Monday",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Take test",
+      "day": "Tuesday",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
